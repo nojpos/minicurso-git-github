@@ -1,1 +1,0 @@
-# minicurso-git-github
